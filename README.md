@@ -1,0 +1,2 @@
+# trainingruby
+Exercices du jour 
